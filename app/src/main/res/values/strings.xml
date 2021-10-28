@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeScreen</string>
+    <string name="retry">retry</string>
+    <string name="no_results">no result</string>
+    <string name="internal_error">error</string>
+    <string name="label_no_internet">error</string>
+    <string name="error_text_label">error</string>
+</resources>
